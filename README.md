@@ -62,14 +62,36 @@ I embrace leadership roles as an ACM Webmaster and a Microsoft Student Ambassado
 </div>
 
 
-<div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden; text-align: center;">
-      <img src="./img/projects and other pics/dotsandboxes1.png" alt="DOTS AND BOXES" style="width: 100%; height: 120px; object-fit: cover;">
-      <div style="padding: 5px;">
-        <strong style="color: #1e3c72;">DOTS & BOXES</strong>
-        <p style="font-size: 0.7rem; color: #555; margin: 3px 0;">Multiplayer classic game.</p>
-        <a href="https://dotsboxes.vercel.app/" style="display: inline-block; padding: 4px 8px; background: #4169E1; color: white; text-decoration: none; border-radius: 3px;">Play</a>
-      </div>
-    </div>
+
+
+
+
+
+# 🚀 Featured Projects
+
+# DOINO RUN
+
+![DOINO RUN](./img/projects%20and%20other%20pics/Doino_run%20(1).png)
+Endless runner game with a dinosaur.  
+[Download](./html/Doinoron_download.html)
+
+# Save Newton
+
+![Save Newton](./img/projects%20and%20other%20pics/Save_newton%20(1).png)
+Educational game teaching Newton's laws.  
+[Download](./html/Newton_download.html)
+
+# Box Runner
+
+![Box Runner](./img/projects%20and%20other%20pics/Box_runner%20(1).jpg)
+Challenging box-running game.  
+[Download](./html/BoxRunner_download.html)
+
+# DOTS & BOXES
+
+![DOTS & BOXES](./img/projects%20and%20other%20pics/dotsandboxes1.png)
+Multiplayer classic game.  
+[Play](https://dotsboxes.vercel.app/)
 
 
 
