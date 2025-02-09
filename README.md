@@ -1,4 +1,4 @@
-<!-- Advanced Styled README.md with Enhanced Features -->
+<!-- Advanced Styled README.md with Enhanced Projects & GitHub Stats -->
 
 <!-- Hero Section with Background Image & Overlay -->
 <div align="center" style="position: relative; background: url('https://source.unsplash.com/1600x400/?technology') no-repeat center; background-size: cover; border-radius: 10px; padding: 100px 20px; margin-bottom: 30px;">
@@ -70,32 +70,71 @@
   </div>
 </div>
 
-<!-- Projects Section with Collapsible Details -->
-<div style="border: 3px dotted #1e3c72; border-radius: 10px; padding: 20px; margin-bottom: 30px;">
-  <h2 style="color: #1e3c72;">🚀 Projects</h2>
-  <details>
-    <summary style="font-size: 1.2rem; cursor: pointer;">Click to view detailed projects</summary>
-    <ul style="margin-top: 10px;">
-      <li>
-        <strong>[Flutter Quiz App](https://github.com/Shery-1508/Flutter_quiz_app)</strong> - An interactive multiple-choice quiz app built with Flutter.
-      </li>
-      <li>
-        <strong>[Send HTML Form Data to Google Forms](https://github.com/Shery-1508/send-html-form-data-to-google-forms-stylize-google-forms)</strong> - Integrates HTML forms with Google Forms for streamlined data collection.
-      </li>
-      <li>
-        <strong>[Codsoft](https://github.com/Shery-1508/Codsoft)</strong> - A series of mobile app development projects showcasing my versatility.
-      </li>
-      <li>
-        <strong>[File Contents Tree Copier](https://github.com/Shery-1508/File-Contents-Tree-Copier)</strong> - A Python utility for copying file trees.
-      </li>
-      <li>
-        <strong>Web-based Multiplayer Game</strong> - A real-time [Dots and Boxes](https://dotsboxes.vercel.app/) game demonstrating full-stack skills.
-      </li>
-    </ul>
-  </details>
-  <p style="text-align: center; margin-top: 15px;">
-    <a href="https://sheharyar.vercel.app/" target="_blank" style="padding: 10px 20px; background: #1e3c72; color: white; border-radius: 5px; text-decoration: none;">Visit My Portfolio</a>
+<!-- Enhanced Projects Section as a Grid of Cards -->
+<div style="margin: 30px 0;">
+  <h2 style="color: #1e3c72; text-align: center;">🚀 Featured Projects</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+    
+    <!-- Project Card: DOINO RUN -->
+    <div style="width: 300px; background: #fff; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <img src="./img/projects and other pics/Doino_run (1).png" alt="DOINO RUN" style="width: 100%; height: 180px; object-fit: cover;">
+      <div style="padding: 10px;">
+        <h3 style="margin: 0; color: #1e3c72;">DOINO RUN</h3>
+        <p style="font-size: 0.85rem; color: #555;">A fun endless runner game featuring a dinosaur character.</p>
+        <p style="font-size: 0.8rem; color: #777;">Tech: Unity, C#, Game Design</p>
+        <a href="./html/Doinoron_download.html" style="display: inline-block; margin-top: 8px; padding: 8px 12px; background: #28a745; color: #fff; text-decoration: none; border-radius: 5px; font-size: 0.9rem;">Download Game</a>
+      </div>
+    </div>
+    
+    <!-- Project Card: Save Newton -->
+    <div style="width: 300px; background: #fff; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <img src="./img/projects and other pics/Save_newton (1).png" alt="Save Newton" style="width: 100%; height: 180px; object-fit: cover;">
+      <div style="padding: 10px;">
+        <h3 style="margin: 0; color: #1e3c72;">Save Newton</h3>
+        <p style="font-size: 0.85rem; color: #555;">An educational game based on Newton's laws of physics.</p>
+        <p style="font-size: 0.8rem; color: #777;">Tech: Unity, C#, Physics Engine</p>
+        <a href="./html/Newton_download.html" style="display: inline-block; margin-top: 8px; padding: 8px 12px; background: #28a745; color: #fff; text-decoration: none; border-radius: 5px; font-size: 0.9rem;">Download Game</a>
+      </div>
+    </div>
+    
+    <!-- Project Card: Box Runner -->
+    <div style="width: 300px; background: #fff; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <img src="./img/projects and other pics/Box_runner (1).jpg" alt="Box Runner" style="width: 100%; height: 180px; object-fit: cover;">
+      <div style="padding: 10px;">
+        <h3 style="margin: 0; color: #1e3c72;">Box Runner</h3>
+        <p style="font-size: 0.85rem; color: #555;">A thrilling box-running game with various challenges.</p>
+        <p style="font-size: 0.8rem; color: #777;">Tech: Unity, C#, Game Design</p>
+        <a href="./html/BoxRunner_download.html" style="display: inline-block; margin-top: 8px; padding: 8px 12px; background: #28a745; color: #fff; text-decoration: none; border-radius: 5px; font-size: 0.9rem;">Download Game</a>
+      </div>
+    </div>
+    
+    <!-- Project Card: DOTS AND BOXES -->
+    <div style="width: 300px; background: #fff; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+      <img src="./img/projects and other pics/dotsandboxes1.png" alt="DOTS AND BOXES" style="width: 100%; height: 180px; object-fit: cover;">
+      <div style="padding: 10px;">
+        <h3 style="margin: 0; color: #1e3c72;">DOTS AND BOXES</h3>
+        <p style="font-size: 0.85rem; color: #555;">A modern multiplayer implementation of the classic Dots and Boxes game.</p>
+        <p style="font-size: 0.8rem; color: #777;">Tech: React, TypeScript, Firebase, TailwindCSS</p>
+        <a href="https://dotsboxes.vercel.app/" style="display: inline-block; margin-top: 8px; padding: 8px 12px; background: #4169E1; color: #fff; text-decoration: none; border-radius: 5px; font-size: 0.9rem;">Play Game</a>
+      </div>
+    </div>
+    
+  </div>
+  <p style="text-align: center; margin-top: 20px;">
+    <a href="https://github.com/Shery-1508?tab=repositories" target="_blank" style="padding: 10px 20px; background: #1e3c72; color: #fff; border-radius: 5px; text-decoration: none;">See All Projects</a>
   </p>
+</div>
+
+<!-- Enhanced GitHub Statistics Section -->
+<div style="text-align: center; margin-bottom: 30px;">
+  <h2 style="color: #1e3c72;">📊 My GitHub Stats</h2>
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shery-1508&show_icons=true&theme=default" alt="GitHub Stats" style="max-width: 100%; flex: 1; min-width: 300px;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shery-1508&layout=compact&theme=default" alt="Top Languages" style="max-width: 100%; flex: 1; min-width: 300px;"/>
+  </div>
+  <div style="margin-top: 20px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shery-1508&theme=onedark" alt="GitHub Trophies" style="max-width: 100%;"/>
+  </div>
 </div>
 
 <!-- Experience Section with Timeline Style -->
@@ -138,13 +177,6 @@
       <li><strong>GDSC Technical Team Member</strong> (2022 – 2023)</li>
     </ul>
   </div>
-</div>
-
-<!-- GitHub Statistics Section -->
-<div style="text-align: center; margin-bottom: 30px;">
-  <h2 style="color: #1e3c72;">📊 My GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Shery-1508&show_icons=true&theme=default" alt="GitHub Stats" style="max-width: 100%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shery-1508&layout=compact&theme=default" alt="Top Languages" style="max-width: 100%; margin-top: 10px;"/>
 </div>
 
 <!-- Connect Section -->
