@@ -70,70 +70,100 @@
   </div>
 </div>
 
-<!-- Enhanced Projects Section as a Grid of Cards -->
+<!-- Enhanced Projects Section: Accordion Style -->
 <div style="margin: 30px 0;">
   <h2 style="color: #1e3c72; text-align: center;">🚀 Featured Projects</h2>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
+  <div style="margin: 20px auto; max-width: 800px;">
     
-    <!-- Project Card: DOINO RUN -->
-    <div style="width: 300px; background: #fff; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <img src="./img/projects and other pics/Doino_run (1).png" alt="DOINO RUN" style="width: 100%; height: 180px; object-fit: cover;">
-      <div style="padding: 10px;">
-        <h3 style="margin: 0; color: #1e3c72;">DOINO RUN</h3>
-        <p style="font-size: 0.85rem; color: #555;">A fun endless runner game featuring a dinosaur character.</p>
-        <p style="font-size: 0.8rem; color: #777;">Tech: Unity, C#, Game Design</p>
-        <a href="./html/Doinoron_download.html" style="display: inline-block; margin-top: 8px; padding: 8px 12px; background: #28a745; color: #fff; text-decoration: none; border-radius: 5px; font-size: 0.9rem;">Download Game</a>
+    <!-- DOINO RUN Project -->
+    <details style="margin-bottom: 15px; border: 1px solid #ddd; border-radius: 5px; padding: 10px;">
+      <summary style="font-size: 1.2rem; font-weight: bold; cursor: pointer;">
+        DOINO RUN <em>(Game Development)</em>
+      </summary>
+      <div style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
+        <img src="./img/projects and other pics/Doino_run (1).png" alt="DOINO RUN" style="width: 200px; border-radius: 5px; margin-right: 10px;">
+        <div style="flex: 1;">
+          <p style="font-size: 0.9rem; margin-bottom: 5px;">
+            A fun endless runner game featuring a dinosaur character built using Unity, C#, and game design principles.
+          </p>
+          <a href="./html/Doinoron_download.html" style="display: inline-block; padding: 8px 12px; background: #28a745; color: white; text-decoration: none; border-radius: 5px; font-size: 0.85rem;">
+            Download Game
+          </a>
+        </div>
       </div>
-    </div>
+    </details>
     
-    <!-- Project Card: Save Newton -->
-    <div style="width: 300px; background: #fff; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <img src="./img/projects and other pics/Save_newton (1).png" alt="Save Newton" style="width: 100%; height: 180px; object-fit: cover;">
-      <div style="padding: 10px;">
-        <h3 style="margin: 0; color: #1e3c72;">Save Newton</h3>
-        <p style="font-size: 0.85rem; color: #555;">An educational game based on Newton's laws of physics.</p>
-        <p style="font-size: 0.8rem; color: #777;">Tech: Unity, C#, Physics Engine</p>
-        <a href="./html/Newton_download.html" style="display: inline-block; margin-top: 8px; padding: 8px 12px; background: #28a745; color: #fff; text-decoration: none; border-radius: 5px; font-size: 0.9rem;">Download Game</a>
+    <!-- Save Newton Project -->
+    <details style="margin-bottom: 15px; border: 1px solid #ddd; border-radius: 5px; padding: 10px;">
+      <summary style="font-size: 1.2rem; font-weight: bold; cursor: pointer;">
+        Save Newton <em>(Educational Game)</em>
+      </summary>
+      <div style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
+        <img src="./img/projects and other pics/Save_newton (1).png" alt="Save Newton" style="width: 200px; border-radius: 5px; margin-right: 10px;">
+        <div style="flex: 1;">
+          <p style="font-size: 0.9rem; margin-bottom: 5px;">
+            An educational game based on Newton's laws of physics, built with Unity, C#, and a physics engine.
+          </p>
+          <a href="./html/Newton_download.html" style="display: inline-block; padding: 8px 12px; background: #28a745; color: white; text-decoration: none; border-radius: 5px; font-size: 0.85rem;">
+            Download Game
+          </a>
+        </div>
       </div>
-    </div>
+    </details>
     
-    <!-- Project Card: Box Runner -->
-    <div style="width: 300px; background: #fff; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <img src="./img/projects and other pics/Box_runner (1).jpg" alt="Box Runner" style="width: 100%; height: 180px; object-fit: cover;">
-      <div style="padding: 10px;">
-        <h3 style="margin: 0; color: #1e3c72;">Box Runner</h3>
-        <p style="font-size: 0.85rem; color: #555;">A thrilling box-running game with various challenges.</p>
-        <p style="font-size: 0.8rem; color: #777;">Tech: Unity, C#, Game Design</p>
-        <a href="./html/BoxRunner_download.html" style="display: inline-block; margin-top: 8px; padding: 8px 12px; background: #28a745; color: #fff; text-decoration: none; border-radius: 5px; font-size: 0.9rem;">Download Game</a>
+    <!-- Box Runner Project -->
+    <details style="margin-bottom: 15px; border: 1px solid #ddd; border-radius: 5px; padding: 10px;">
+      <summary style="font-size: 1.2rem; font-weight: bold; cursor: pointer;">
+        Box Runner <em>(Game Development)</em>
+      </summary>
+      <div style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
+        <img src="./img/projects and other pics/Box_runner (1).jpg" alt="Box Runner" style="width: 200px; border-radius: 5px; margin-right: 10px;">
+        <div style="flex: 1;">
+          <p style="font-size: 0.9rem; margin-bottom: 5px;">
+            A thrilling box-running game with various challenges, utilizing Unity, C#, and immersive design.
+          </p>
+          <a href="./html/BoxRunner_download.html" style="display: inline-block; padding: 8px 12px; background: #28a745; color: white; text-decoration: none; border-radius: 5px; font-size: 0.85rem;">
+            Download Game
+          </a>
+        </div>
       </div>
-    </div>
+    </details>
     
-    <!-- Project Card: DOTS AND BOXES -->
-    <div style="width: 300px; background: #fff; border: 1px solid #ddd; border-radius: 10px; overflow: hidden; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <img src="./img/projects and other pics/dotsandboxes1.png" alt="DOTS AND BOXES" style="width: 100%; height: 180px; object-fit: cover;">
-      <div style="padding: 10px;">
-        <h3 style="margin: 0; color: #1e3c72;">DOTS AND BOXES</h3>
-        <p style="font-size: 0.85rem; color: #555;">A modern multiplayer implementation of the classic Dots and Boxes game.</p>
-        <p style="font-size: 0.8rem; color: #777;">Tech: React, TypeScript, Firebase, TailwindCSS</p>
-        <a href="https://dotsboxes.vercel.app/" style="display: inline-block; margin-top: 8px; padding: 8px 12px; background: #4169E1; color: #fff; text-decoration: none; border-radius: 5px; font-size: 0.9rem;">Play Game</a>
+    <!-- DOTS AND BOXES Project -->
+    <details style="margin-bottom: 15px; border: 1px solid #ddd; border-radius: 5px; padding: 10px;">
+      <summary style="font-size: 1.2rem; font-weight: bold; cursor: pointer;">
+        DOTS AND BOXES <em>(Web Development Project)</em>
+      </summary>
+      <div style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
+        <img src="./img/projects and other pics/dotsandboxes1.png" alt="DOTS AND BOXES" style="width: 200px; border-radius: 5px; margin-right: 10px;">
+        <div style="flex: 1;">
+          <p style="font-size: 0.9rem; margin-bottom: 5px;">
+            A modern multiplayer version of the classic Dots and Boxes game with real-time online play.
+          </p>
+          <a href="https://dotsboxes.vercel.app/" style="display: inline-block; padding: 8px 12px; background: #4169E1; color: white; text-decoration: none; border-radius: 5px; font-size: 0.85rem;">
+            Play Game
+          </a>
+        </div>
       </div>
-    </div>
+    </details>
     
   </div>
   <p style="text-align: center; margin-top: 20px;">
-    <a href="https://github.com/Shery-1508?tab=repositories" target="_blank" style="padding: 10px 20px; background: #1e3c72; color: #fff; border-radius: 5px; text-decoration: none;">See All Projects</a>
+    <a href="https://github.com/Shery-1508?tab=repositories" target="_blank" style="padding: 10px 20px; background: #1e3c72; color: #fff; border-radius: 5px; text-decoration: none;">
+      See All Projects
+    </a>
   </p>
 </div>
 
 <!-- Enhanced GitHub Statistics Section -->
 <div style="text-align: center; margin-bottom: 30px;">
   <h2 style="color: #1e3c72;">📊 My GitHub Stats</h2>
-  <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shery-1508&show_icons=true&theme=default" alt="GitHub Stats" style="max-width: 100%; flex: 1; min-width: 300px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shery-1508&layout=compact&theme=default" alt="Top Languages" style="max-width: 100%; flex: 1; min-width: 300px;"/>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shery-1508&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" style="flex: 1 1 300px; max-width: 100%;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shery-1508&layout=compact&theme=default" alt="Top Languages" style="flex: 1 1 300px; max-width: 100%;"/>
   </div>
   <div style="margin-top: 20px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shery-1508&theme=onedark" alt="GitHub Trophies" style="max-width: 100%;"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Shery-1508&theme=onedark&row=2" alt="GitHub Trophies" style="max-width: 100%;"/>
   </div>
 </div>
 
@@ -191,4 +221,4 @@
   <p style="margin-top: 10px; font-size: 0.9rem; color: #555;">
     Data & inspiration for this profile come from my <a href="https://github.com/Shery-1508" target="_blank" style="color: #1e3c72; font-weight: bold;">resume</a> and project directory.
   </p>
-</div>
+</div> 
