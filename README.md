@@ -188,4 +188,4 @@
   <p style="margin-top: 10px; font-size: 0.9rem; color: #555;">
     Data & inspiration for this profile come from my <a href="https://github.com/Shery-1508" target="_blank" style="color: #1e3c72; font-weight: bold;">resume</a> and project directory.
   </p>
-</div> 
+</div>
