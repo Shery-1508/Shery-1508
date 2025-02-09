@@ -70,86 +70,52 @@
   </div>
 </div>
 
-<!-- Enhanced Projects Section: Accordion Style -->
-<div style="margin: 30px 0;">
-  <h2 style="color: #1e3c72; text-align: center;">🚀 Featured Projects</h2>
-  <div style="margin: 20px auto; max-width: 800px;">
-    
-    <!-- DOINO RUN Project -->
-    <details style="margin-bottom: 15px; border: 1px solid #ddd; border-radius: 5px; padding: 10px;">
-      <summary style="font-size: 1.2rem; font-weight: bold; cursor: pointer;">
-        DOINO RUN <em>(Game Development)</em>
-      </summary>
-      <div style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
-        <img src="./img/projects and other pics/Doino_run (1).png" alt="DOINO RUN" style="width: 200px; border-radius: 5px; margin-right: 10px;">
-        <div style="flex: 1;">
-          <p style="font-size: 0.9rem; margin-bottom: 5px;">
-            A fun endless runner game featuring a dinosaur character built using Unity, C#, and game design principles.
-          </p>
-          <a href="./html/Doinoron_download.html" style="display: inline-block; padding: 8px 12px; background: #28a745; color: white; text-decoration: none; border-radius: 5px; font-size: 0.85rem;">
-            Download Game
-          </a>
-        </div>
+<!-- Compact Projects Section: Grid View -->
+<div align="center" style="margin: 20px 0;">
+  <h2 style="color: #1e3c72;">🚀 Featured Projects</h2>
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 10px; margin-top: 20px; max-width: 900px;">
+    <!-- DOINO RUN -->
+    <div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden;">
+      <img src="./img/projects and other pics/Doino_run (1).png" alt="DOINO RUN" style="width: 100%; height: 120px; object-fit: cover;">
+      <div style="padding: 5px;">
+        <strong style="color: #1e3c72; font-size: 0.9rem;">DOINO RUN</strong>
+        <p style="font-size: 0.7rem; color: #555; margin: 3px 0;">Endless runner game with a dinosaur.</p>
+        <a href="./html/Doinoron_download.html" style="display: inline-block; font-size: 0.7rem; padding: 4px 8px; background: #28a745; color: #fff; text-decoration: none; border-radius: 3px;">Download</a>
       </div>
-    </details>
-    
-    <!-- Save Newton Project -->
-    <details style="margin-bottom: 15px; border: 1px solid #ddd; border-radius: 5px; padding: 10px;">
-      <summary style="font-size: 1.2rem; font-weight: bold; cursor: pointer;">
-        Save Newton <em>(Educational Game)</em>
-      </summary>
-      <div style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
-        <img src="./img/projects and other pics/Save_newton (1).png" alt="Save Newton" style="width: 200px; border-radius: 5px; margin-right: 10px;">
-        <div style="flex: 1;">
-          <p style="font-size: 0.9rem; margin-bottom: 5px;">
-            An educational game based on Newton's laws of physics, built with Unity, C#, and a physics engine.
-          </p>
-          <a href="./html/Newton_download.html" style="display: inline-block; padding: 8px 12px; background: #28a745; color: white; text-decoration: none; border-radius: 5px; font-size: 0.85rem;">
-            Download Game
-          </a>
-        </div>
+    </div>
+
+    <!-- Save Newton -->
+    <div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden;">
+      <img src="./img/projects and other pics/Save_newton (1).png" alt="Save Newton" style="width: 100%; height: 120px; object-fit: cover;">
+      <div style="padding: 5px;">
+        <strong style="color: #1e3c72; font-size: 0.9rem;">Save Newton</strong>
+        <p style="font-size: 0.7rem; color: #555; margin: 3px 0;">Educational game teaching Newton's laws.</p>
+        <a href="./html/Newton_download.html" style="display: inline-block; font-size: 0.7rem; padding: 4px 8px; background: #28a745; color: #fff; text-decoration: none; border-radius: 3px;">Download</a>
       </div>
-    </details>
-    
-    <!-- Box Runner Project -->
-    <details style="margin-bottom: 15px; border: 1px solid #ddd; border-radius: 5px; padding: 10px;">
-      <summary style="font-size: 1.2rem; font-weight: bold; cursor: pointer;">
-        Box Runner <em>(Game Development)</em>
-      </summary>
-      <div style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
-        <img src="./img/projects and other pics/Box_runner (1).jpg" alt="Box Runner" style="width: 200px; border-radius: 5px; margin-right: 10px;">
-        <div style="flex: 1;">
-          <p style="font-size: 0.9rem; margin-bottom: 5px;">
-            A thrilling box-running game with various challenges, utilizing Unity, C#, and immersive design.
-          </p>
-          <a href="./html/BoxRunner_download.html" style="display: inline-block; padding: 8px 12px; background: #28a745; color: white; text-decoration: none; border-radius: 5px; font-size: 0.85rem;">
-            Download Game
-          </a>
-        </div>
+    </div>
+
+    <!-- Box Runner -->
+    <div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden;">
+      <img src="./img/projects and other pics/Box_runner (1).jpg" alt="Box Runner" style="width: 100%; height: 120px; object-fit: cover;">
+      <div style="padding: 5px;">
+        <strong style="color: #1e3c72; font-size: 0.9rem;">Box Runner</strong>
+        <p style="font-size: 0.7rem; color: #555; margin: 3px 0;">Challenging box-running game.</p>
+        <a href="./html/BoxRunner_download.html" style="display: inline-block; font-size: 0.7rem; padding: 4px 8px; background: #28a745; color: #fff; text-decoration: none; border-radius: 3px;">Download</a>
       </div>
-    </details>
-    
-    <!-- DOTS AND BOXES Project -->
-    <details style="margin-bottom: 15px; border: 1px solid #ddd; border-radius: 5px; padding: 10px;">
-      <summary style="font-size: 1.2rem; font-weight: bold; cursor: pointer;">
-        DOTS AND BOXES <em>(Web Development Project)</em>
-      </summary>
-      <div style="display: flex; flex-wrap: wrap; align-items: center; margin-top: 10px;">
-        <img src="./img/projects and other pics/dotsandboxes1.png" alt="DOTS AND BOXES" style="width: 200px; border-radius: 5px; margin-right: 10px;">
-        <div style="flex: 1;">
-          <p style="font-size: 0.9rem; margin-bottom: 5px;">
-            A modern multiplayer version of the classic Dots and Boxes game with real-time online play.
-          </p>
-          <a href="https://dotsboxes.vercel.app/" style="display: inline-block; padding: 8px 12px; background: #4169E1; color: white; text-decoration: none; border-radius: 5px; font-size: 0.85rem;">
-            Play Game
-          </a>
-        </div>
+    </div>
+
+    <!-- DOTS AND BOXES -->
+    <div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden;">
+      <img src="./img/projects and other pics/dotsandboxes1.png" alt="DOTS AND BOXES" style="width: 100%; height: 120px; object-fit: cover;">
+      <div style="padding: 5px;">
+        <strong style="color: #1e3c72; font-size: 0.9rem;">DOTS & BOXES</strong>
+        <p style="font-size: 0.7rem; color: #555; margin: 3px 0;">Multiplayer classic game.</p>
+        <a href="https://dotsboxes.vercel.app/" style="display: inline-block; font-size: 0.7rem; padding: 4px 8px; background: #4169E1; color: #fff; text-decoration: none; border-radius: 3px;">Play</a>
       </div>
-    </details>
-    
+    </div>
   </div>
-  <p style="text-align: center; margin-top: 20px;">
-    <a href="https://github.com/Shery-1508?tab=repositories" target="_blank" style="padding: 10px 20px; background: #1e3c72; color: #fff; border-radius: 5px; text-decoration: none;">
+  <p style="margin-top: 10px;">
+    <a href="https://github.com/Shery-1508?tab=repositories" target="_blank" style="font-size: 0.8rem; padding: 6px 12px; background: #1e3c72; color: #fff; border-radius: 3px; text-decoration: none;">
       See All Projects
     </a>
   </p>
