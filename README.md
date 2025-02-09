@@ -46,7 +46,7 @@ I embrace leadership roles as an ACM Webmaster and a Microsoft Student Ambassado
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="32" alt="React" style="margin-right: 4px"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" style="margin-right: 4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="32" alt="Node.js" style="margin-right: 4px"> 
-  
+  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" style="margin-right: 4px"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="32" alt="MySQL" style="margin-right: 4px"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original-wordmark.svg" height="32" alt="SQLite" style="margin-right: 4px"> 
@@ -60,6 +60,20 @@ I embrace leadership roles as an ACM Webmaster and a Microsoft Student Ambassado
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" height="32" alt="Dart" style="margin-right: 4px"> 
   <img src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" height="32" alt="Python" style="margin-right: 4px">
 </div>
+
+
+<div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden; text-align: center;">
+      <img src="./img/projects and other pics/dotsandboxes1.png" alt="DOTS AND BOXES" style="width: 100%; height: 120px; object-fit: cover;">
+      <div style="padding: 5px;">
+        <strong style="color: #1e3c72;">DOTS & BOXES</strong>
+        <p style="font-size: 0.7rem; color: #555; margin: 3px 0;">Multiplayer classic game.</p>
+        <a href="https://dotsboxes.vercel.app/" style="display: inline-block; padding: 4px 8px; background: #4169E1; color: white; text-decoration: none; border-radius: 3px;">Play</a>
+      </div>
+    </div>
+
+
+
+
 
 
 
