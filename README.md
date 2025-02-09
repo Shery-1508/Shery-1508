@@ -70,47 +70,48 @@
   </div>
 </div>
 
-<!-- Compact Projects Section: Grid View -->
+<!-- Compact Projects Section: Card System -->
 <div align="center" style="margin: 20px 0;">
   <h2 style="color: #1e3c72;">🚀 Featured Projects</h2>
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 10px; margin-top: 20px; max-width: 900px;">
+    
     <!-- DOINO RUN -->
-    <div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden;">
+    <div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden; text-align: center;">
       <img src="./img/projects and other pics/Doino_run (1).png" alt="DOINO RUN" style="width: 100%; height: 120px; object-fit: cover;">
       <div style="padding: 5px;">
-        <strong style="color: #1e3c72; font-size: 0.9rem;">DOINO RUN</strong>
+        <strong style="color: #1e3c72;">DOINO RUN</strong>
         <p style="font-size: 0.7rem; color: #555; margin: 3px 0;">Endless runner game with a dinosaur.</p>
-        <a href="./html/Doinoron_download.html" style="display: inline-block; font-size: 0.7rem; padding: 4px 8px; background: #28a745; color: #fff; text-decoration: none; border-radius: 3px;">Download</a>
+        <a href="./html/Doinoron_download.html" style="display: inline-block; padding: 4px 8px; background: #28a745; color: white; text-decoration: none; border-radius: 3px;">Download</a>
       </div>
     </div>
 
     <!-- Save Newton -->
-    <div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden;">
+    <div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden; text-align: center;">
       <img src="./img/projects and other pics/Save_newton (1).png" alt="Save Newton" style="width: 100%; height: 120px; object-fit: cover;">
       <div style="padding: 5px;">
-        <strong style="color: #1e3c72; font-size: 0.9rem;">Save Newton</strong>
+        <strong style="color: #1e3c72;">Save Newton</strong>
         <p style="font-size: 0.7rem; color: #555; margin: 3px 0;">Educational game teaching Newton's laws.</p>
-        <a href="./html/Newton_download.html" style="display: inline-block; font-size: 0.7rem; padding: 4px 8px; background: #28a745; color: #fff; text-decoration: none; border-radius: 3px;">Download</a>
+        <a href="./html/Newton_download.html" style="display: inline-block; padding: 4px 8px; background: #28a745; color: white; text-decoration: none; border-radius: 3px;">Download</a>
       </div>
     </div>
 
     <!-- Box Runner -->
-    <div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden;">
+    <div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden; text-align: center;">
       <img src="./img/projects and other pics/Box_runner (1).jpg" alt="Box Runner" style="width: 100%; height: 120px; object-fit: cover;">
       <div style="padding: 5px;">
-        <strong style="color: #1e3c72; font-size: 0.9rem;">Box Runner</strong>
+        <strong style="color: #1e3c72;">Box Runner</strong>
         <p style="font-size: 0.7rem; color: #555; margin: 3px 0;">Challenging box-running game.</p>
-        <a href="./html/BoxRunner_download.html" style="display: inline-block; font-size: 0.7rem; padding: 4px 8px; background: #28a745; color: #fff; text-decoration: none; border-radius: 3px;">Download</a>
+        <a href="./html/BoxRunner_download.html" style="display: inline-block; padding: 4px 8px; background: #28a745; color: white; text-decoration: none; border-radius: 3px;">Download</a>
       </div>
     </div>
 
     <!-- DOTS AND BOXES -->
-    <div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden;">
+    <div style="border: 1px solid #ddd; border-radius: 5px; overflow: hidden; text-align: center;">
       <img src="./img/projects and other pics/dotsandboxes1.png" alt="DOTS AND BOXES" style="width: 100%; height: 120px; object-fit: cover;">
       <div style="padding: 5px;">
-        <strong style="color: #1e3c72; font-size: 0.9rem;">DOTS & BOXES</strong>
+        <strong style="color: #1e3c72;">DOTS & BOXES</strong>
         <p style="font-size: 0.7rem; color: #555; margin: 3px 0;">Multiplayer classic game.</p>
-        <a href="https://dotsboxes.vercel.app/" style="display: inline-block; font-size: 0.7rem; padding: 4px 8px; background: #4169E1; color: #fff; text-decoration: none; border-radius: 3px;">Play</a>
+        <a href="https://dotsboxes.vercel.app/" style="display: inline-block; padding: 4px 8px; background: #4169E1; color: white; text-decoration: none; border-radius: 3px;">Play</a>
       </div>
     </div>
   </div>
