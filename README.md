@@ -65,24 +65,6 @@ I embrace leadership roles as an ACM Webmaster and a Microsoft Student Ambassado
 
 
 
-
-
-# 🚀 Featured Projects
-
-| DOINO RUN | Save Newton |
-|-----------|-------------|
-| ![DOINO RUN](./img/projects%20and%20other%20pics/Doino_run%20(1).png) <br> *DOINO RUN* <br> Endless runner game with a dinosaur. <br> [Download](./html/Doinoron_download.html) | ![Save Newton](./img/projects%20and%20other%20pics/Save_newton%20(1).png) <br> *Save Newton* <br> Educational game teaching Newton's laws. <br> [Download](./html/Newton_download.html) |
-
-| Box Runner | DOTS & BOXES |
-|------------|--------------|
-| ![Box Runner](./img/projects%20and%20other%20pics/Box_runner%20(1).jpg) <br> *Box Runner* <br> Challenging box-running game. <br> [Download](./html/BoxRunner_download.html) | ![DOTS & BOXES](./img/projects%20and%20other%20pics/dotsandboxes1.png) <br> *DOTS & BOXES* <br> Multiplayer classic game. <br> [Play](https://dotsboxes.vercel.app/) |
-
-
-
-
-
-
-
  **<h3 align="left">GitHub Stats</h3>**
 
 <p align="left">
